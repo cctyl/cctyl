@@ -1,17 +1,6 @@
 # About
 - 会一点点前端的java开发
 
-
-
-# Skills 
-
-- `Java`
-- `SQL`
-- `Js`
-- `NodeJs`
-- `Vue`
-- `Android`
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cctyl&layout=compact)
 
 ## Motto
